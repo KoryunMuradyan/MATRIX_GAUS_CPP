@@ -1,4 +1,4 @@
 The make command just compiles the programm.
 You can test the result nby "make test" command after which an "result.txt" file will be generated 
-as a result of comparison of "golden.txt" "output.txt" files' contents and, 
-in fase of wrong results the "result.txt" file will be empty else it will contain the differentions
+as a result of comparison of "golden.txt" "output.txt" files' contents and the result of testoing will be 
+written in "result.txt" file
